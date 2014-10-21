@@ -2,7 +2,8 @@
 
     <item android:id="@+id/action_info"
         android:title="@string/info"
-        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_web_site"
         android:showAsAction="never" />
+
 
 </menu>
